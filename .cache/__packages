@@ -1,1 +1,6 @@
 base
+knitr
+markdown
+ggplot2
+slidify
+devtools

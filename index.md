@@ -18,7 +18,7 @@ knit        : slidify::knit2slides
 3. If the entered number is higher, lower, correct, the system should interact accordingly.
 
 
---- .class #id 
+--- 
 
 
 
@@ -26,14 +26,14 @@ knit        : slidify::knit2slides
 
 in the ui.R file we user a varity of widgets, input and output textboxs, submit button.
 
---- .class #id 
+--- 
 
 
 ## The servr.R
 
 in the server.R file we use the function described later to generate a random number and check the input from the user.
 
---- .class #id 
+--- 
 
 ## Main function.
 
